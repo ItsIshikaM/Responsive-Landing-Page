@@ -235,7 +235,7 @@ h3{
   gap: 0px;
 }
 .section2{
-  background:url('images/weird.jpg);
+  background:url(''images/weird.jpg');
   background-size: cover;
 }
 
@@ -513,7 +513,7 @@ background-color: #000;
 }
 .section2{
   height: 600px;
-    background: url(ttt1.png);
+    background: url(''images/ttt1.png');
     background-size: cover;
 }
 .section3{
@@ -537,7 +537,7 @@ background-color: #000;
   position: relative;
 }
 .section4{
-  background-image: url('images/ls4.png);
+  background-image: url(''images/ls4.png');
   background-size: cover;
   background-blend-mode: overlay;
   background-color: rgba(255, 255, 255, 0.4);
